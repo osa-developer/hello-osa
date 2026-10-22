@@ -1,0 +1,16 @@
+name: "🧱 I'm live! (join the Wall)"
+description: Post your first website on the Wall. Your weekly updates for Weeks 1–2 go in this issue's comments.
+title: "I'm live: "
+labels: ["wall"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: My live link
+      placeholder: https://your-handle.github.io/hello-osa
+    validations:
+      required: true
+  - type: textarea
+    id: about
+    attributes:
+      label: One sentence about me (optional)

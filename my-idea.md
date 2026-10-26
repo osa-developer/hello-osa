@@ -1,0 +1,4 @@
+- What it is:i will create a website where animals can find new owners.
+- Who it's for:for stray animals.
+- Their problem:There are many stray animals, and I want to solve this problem by helping them with my website.
+- One person I can talk to about it:my mam.
